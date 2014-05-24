@@ -1,0 +1,30 @@
+body, html {
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+body {
+	background-image: url('grass.jpg');
+}
+
+.animal {
+	height: 90px;
+	position: absolute;
+}
+
+.chicken-coop {
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+	color: white;
+	border: 8px solid black;
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+
+	margin: auto;
+}
